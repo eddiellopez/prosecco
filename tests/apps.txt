@@ -1,0 +1,34 @@
+{
+  "programs": [
+    {
+      "name": "LinkedIn",
+      "image": "images/li.png",
+      "path": "/home/LinkedIn"
+    },
+    {
+      "name": "Stack Overflow",
+      "image": "images/so.png",
+      "path": "/home/Stack Overflew"
+    },
+    {
+      "name": "Facebook",
+      "image": "images/fb.png",
+      "path": "/home/Facebook"
+    },
+    {
+      "name": "Amazon",
+      "image": "images/az.png",
+      "path": "/home/Amazon.com"
+    },
+    {
+      "name": "CodeFights",
+      "image": "images/cf.png",
+      "path": "/home/CodeFights"
+    },
+    {
+      "name": "Heroes III of Might and Magic",
+      "image": "images/h3.png",
+      "path": "/home/Heroes"
+    }
+  ]
+}
